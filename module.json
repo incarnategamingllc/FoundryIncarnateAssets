@@ -1,0 +1,13 @@
+{
+	"name": "incarnateAssets",
+	"title": "Incarnate Assets",
+	"description": "Assets developed by Incarnate Gaming LLC to aid with maps, tokens, sounds, and more!",
+	"version": "0.0.1",
+	"minimumCoreVersion": "0.4.1",
+	"author": "Philip aka ProNobis",
+    	"manifest": "https://incarnatefoundry.s3.us-east-2.amazonaws.com/*/public/modules/incarnateAssets/module.json",
+   	"download": "https://incarnatefoundry.s3.us-east-2.amazonaws.com/*/public/modules/incarnateAssets/incaranteAssets.zip",
+	"scripts": [],
+	"styles": [],
+	"packs": []
+}
